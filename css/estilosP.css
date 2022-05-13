@@ -1,0 +1,65 @@
+th{
+	font-size: 30px;
+	font-family: "Bell MT";
+}
+.a{
+	background-color: #A30000;
+	color:white;
+}
+a{
+	color:black;
+}
+.img{
+	border-radius:20px;
+	border: 15px double #FFFFFF;
+	margin:0 auto;
+	display: block;
+}
+.img1{
+	margin:0 auto;
+	display: block;
+}
+h2{
+	font-size: 70px;
+	font-family: "Algerian"; 
+	background-color: #950101;
+	text-align: center;
+	color: white;
+}
+h4{
+	font-size: 40px;
+	font-family: "Bell MT";
+	background-color: #B28EE5;
+	text-align: center;
+	color: white;
+}
+p{
+	background-color:#F1F1FF;
+	font-size: 25px;
+	font-family: "Bodoni MT";
+	text-align: justify;
+	color: ;
+}
+h5{
+	font-size: 50px;
+	font-family: "Lucida Calligraphy";
+	background-color: #130098;
+	text-align: center;
+	color: #F0ECFF;
+}
+h3{
+	font-size: 40px;
+	font-family: "Baskerville Old Face";
+	background-color: #6C4BFF;
+	text-align: center;
+	color: white;
+}
+h6{
+	font-size: 20px;
+	font-family: "Bell MT";
+	color:white;
+}
+h1{
+	font-size: 20px;
+	font-family: "Bell MT";
+}

@@ -1,0 +1,29 @@
+h1{
+	color: red;
+	font-size: 70px;
+	font-family: "Lucida Calligraphy";
+	background-color: pink;
+}
+h2{
+	font-size: 30px;
+	font-family: "Cooper Black";
+	background-color: violet;
+}
+h5{
+	font-size: 30px;
+	font-family: "Cooper Black";
+}
+h3{
+	color: orange;
+	font-size: 40px;
+	font-family: "Lucida Calligraphy";
+	background-color: gray;
+}
+
+h4{
+	color: purple;
+	font-size: 18px;
+	text-align: right;
+	font-family: "Bell MT";
+	background-color: ;
+}

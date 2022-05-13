@@ -1,0 +1,45 @@
+img{
+	border-radius:20px;
+	border: 15px double #FFFFFF;
+}
+h1{
+	color: #C70039;
+	font-size: 70px;
+	font-family: "Lucida Calligraphy";
+	background-color: #FCD4E5;
+	text-align: center;
+}
+h2{
+	font-size: 40px;
+	font-family: "Lucida Calligraphy";
+	background-color: pink;
+	text-align: center;
+	color: #D71585;
+}
+h5{
+	font-size: 30px;
+	text-align: center;
+	font-family: "Lucida Calligraphy";
+	background-color: pink;
+	color: #D71585;
+	
+}
+.p{
+	background-color:#F5B8D2;
+	font-size: 30px;
+	font-family: "Bell MT";
+	text-align: justify;
+	color: #D71585;
+}
+h3{
+	font-size: 60px;
+	color:#C70039;
+	font-family: "Lucida Calligraphy";
+	background-color: pink;
+	text-align: center;
+}
+h4{
+	color:purple;
+	font-size:25px;
+	text-align:right;
+}
